@@ -1,5 +1,5 @@
-This is my weather app
+#ClimaControl 
 
 
-
-![Alt text](/madrid.png?raw=true "Result Image")
+##Result of UI When it updates after a Search Result
+![Result Image](/madrid.png?raw=true "Result Image")
